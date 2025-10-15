@@ -1,0 +1,91 @@
+/* Minimal dark gradient background */
+html,
+body,
+[data-testid="stAppViewContainer"] {
+    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%) !important;
+    color: #e6e6f0 !important;
+    font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
+}
+
+/* Hide Streamlit chrome for app-like feel */
+[data-testid="stStatusWidget"] {
+    display: none !important;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+/* Make layout spacious */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Chat bubbles */
+.bubble {
+    max-width: 900px;
+    padding: 0.75rem 1rem;
+    border-radius: 16px;
+    line-height: 1.6;
+    margin: 0.4rem 0;
+    word-wrap: break-word;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.bubble.user {
+    background: rgba(255, 255, 255, 0.08);
+    color: #f5f7ff;
+}
+
+.bubble.assistant {
+    background: rgba(48, 43, 99, 0.55);
+    color: #f0f1f8;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* Tune chat message containers spacing */
+[data-testid="stChatMessage"] {
+    margin-bottom: 0.4rem;
+}
+
+[data-testid="stChatMessage"]>div {
+    width: 100%;
+}
+
+/* Inputs */
+textarea,
+input,
+.stTextInput input {
+    background: rgba(255, 255, 255, 0.06) !important;
+    color: #eaeaf0 !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    border-radius: 12px !important;
+}
+
+/* Buttons */
+button[kind="secondary"] {
+    background: rgba(255, 255, 255, 0.08) !important;
+    color: #ffffff !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    border-radius: 12px !important;
+}
+
+/* Scrollbar minimalism */
+*::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: transparent;
+}

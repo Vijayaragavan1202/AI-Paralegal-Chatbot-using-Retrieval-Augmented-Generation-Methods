@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 INCIDENT REPORT: Case #734-A1\
+\
+REPORTING OFFICER: Sgt. Miller\
+DATE OF INCIDENT: 2024-07-15\
+LOCATION: Intersection of Elm Street and Oak Avenue.\
+\
+SUMMARY:\
+At approximately 14:30, a two-vehicle collision occurred. Vehicle-1, a blue 2022 Toyota Camry, was driven by Mr. John Smith. Vehicle-2, a red 2020 Ford F-150, was driven by Ms. Sarah Jenkins.\
+\
+WITNESS STATEMENTS:\
+Witness #1 (Mr. Peterson), who was on the northeast corner, stated that the Ford F-150 (Vehicle-2) appeared to run a red light before striking the Toyota Camry (Vehicle-1). He mentioned the weather was clear and sunny.\
+\
+Witness #2 (Ms. Davis), a passenger in a separate vehicle, claimed the Toyota Camry (Vehicle-1) seemed to accelerate into the intersection just as the light was turning yellow.\
+\
+VEHICLE DAMAGE ASSESSMENT:\
+The Toyota Camry sustained significant front-end damage. The Ford F-150 has damage to the passenger-side door and front quarter panel.\
+\
+DRIVER STATEMENTS:\
+Mr. John Smith stated he had a green light and proceeded through the intersection normally. Ms. Sarah Jenkins claims her light was yellow and she could not stop in time. She also mentioned feeling dizzy just before the incident, but has no prior medical history of this.}
